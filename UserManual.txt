@@ -1,0 +1,14 @@
+ResolveAI
+Recon Chen & Harry Yang
+HR Studios
+
+Excecution
+Run the .jar file, and make sure to run it in jGrasp
+
+Controls
+Use WASD to move around in the movement part of level 1
+Follow the instructions in the text box
+
+Tips
+Pay attention to what Mr. Joe is saying in the AI demonstation, it will be useful later on
+Pay attention to what the characters say in the level 1 minigame, they might tell you where to go next
